@@ -1,0 +1,108 @@
+* {
+    margin: 0 !important;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.imgnav {
+    background-image: url(https://media0.giphy.com/media/3o6ZsTCWKiqmbY7Tiw/giphy.gif);
+    background-size: cover;
+    background-position: center;
+}
+.text-nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-color{
+    color:white ;
+}
+
+.imghome {
+    background-image: url(https://usagif.com/wp-content/uploads/gifs/starfall-gif-46.gif);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.text-home{
+    font-family: 'Courier New', Courier, monospace;
+    color: #F5F5F5;
+}
+
+.bg-home {
+    background-image: url(https://i.pinimg.com/originals/f1/eb/cf/f1ebcf7e1934fe7dc416f7a5cf449060.gif);
+    background-size: cover;
+    background-position: center;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+}
+
+.bg-aboutme {
+    background-image: url(https://i.pinimg.com/originals/30/40/de/3040de9df8ec7b7e47f9103a87e9ede3.gif);
+    background-size: cover;
+    background-position: center;
+}
+.text-aboutme {
+    font-family: 'Courier New', Courier, monospace;
+    color: #F5F5F5;
+}
+.bg-tools {
+    background-image: url(https://images.unsplash.com/photo-1593371256584-ac70d0ab43d1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8);
+    background-size: cover;
+    background-position: center;
+}
+.text-tools {
+    font-family: 'Courier New', Courier, monospace;
+    color: #F5F5F5;
+}
+.bg-project {
+    background-image: url(https://animesher.com/orig/0/89/890/8906/animesher.com_dark-starry-night-anime-gif-890673.gif);
+    background-size: cover;
+    background-position: center;
+}
+
+.text-project {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F5F5F5;
+}
+
+.bg-contact {
+    background-image: url(https://images.unsplash.com/photo-1593371256584-ac70d0ab43d1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8);
+    background-size: cover;
+    background-position: center;
+}
+
+.text-contact {
+    font-family: 'Courier New', Courier, monospace;
+    color: #F5F5F5;
+}
+
+.img-footer {
+    background-image: url(https://cdn.pixabay.com/animation/2023/03/19/02/34/02-34-11-741_512.gif);
+    background-size: cover;
+    background-position: center;
+}
+
+.text-footer {
+    font-family: 'Courier New', Courier, monospace;
+    color: #F5F5F5;
+}
+
+.footer-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.tool-height {
+    height: 120px;
+}
+
+.tool-maxheight {
+    max-height: 120px;
+}
